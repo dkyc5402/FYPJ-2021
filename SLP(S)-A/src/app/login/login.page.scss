@@ -1,0 +1,74 @@
+.center {
+    text-align: center;
+}
+.forgot {
+    text-align: right;
+    padding: 10px;
+    color: gray;
+}
+
+.vertical-center {
+   
+        display: flex;
+        align-items: center;
+        // padding: 10px;
+
+    }
+
+.button {
+    font-family: 'Roboto';
+    padding: 1000;
+    background-color: transparent;
+}
+
+h1 {
+    font: #3f434b(rgb(63,67,75));
+}
+
+.center1 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
+
+.ionbutton {
+    --vertical-align: middle;
+    --padding-start: 100px;
+    --padding-end: 100px;
+    color: white;
+    --background:#4B5C7C;
+  }
+
+ .ionitem{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom-color: #4B5C7C;
+    --highlight-background: #657B6C;
+    
+ }
+ 
+ .item{
+        background-color: transparent;
+    }
+
+ .item-native{
+     border:none
+ }
+
+// .item-inner-highlight{
+//     bottom: 4px;
+//     position: absolute;
+//     background: rgb(75, 92, 124);
+//     z-index: 1;
+//     width: 100%;
+// }
+
+// .item-highlight, .item-inner-highlight{
+//     bottom: 4px;
+//     position: absolute;
+//     background: rgb(75, 92, 124);
+//     z-index: 1;
+//     width: 100%;
+// }

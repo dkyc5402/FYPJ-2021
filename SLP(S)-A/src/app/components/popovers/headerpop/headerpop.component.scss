@@ -1,0 +1,25 @@
+ion-item {
+    text-align: center;
+    border-color: transparent;
+}
+
+
+ion-popover-view.fit {
+  --height: auto !important;
+}
+
+ion-popover-view.fit ion-content {
+  position: relative !important;
+}
+
+.platform-android ion-popover-view.fit {
+  margin-top: 10px !important;
+}
+
+.cancelbtn{
+    color: #6F1A07;
+}
+
+.logoutbtn{
+    color:#4B5C7C;
+}

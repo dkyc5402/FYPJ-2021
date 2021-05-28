@@ -1,0 +1,29 @@
+ion-icon {
+  color:black;
+  font-size:x-large;
+}
+
+ion-button{
+    background-color: Transparent;
+    border: none;
+    outline:none;
+    --ripple-color: #4B5C7C;
+}
+
+
+// ion-popover-view.fit {
+//   height: auto !important;
+// }
+
+// ion-popover-view.fit ion-content {
+//   position: relative !important;
+// }
+
+// .platform-android ion-popover-view.fit {
+//   margin-top: 10px !important;
+// }
+
+
+.toolbar-title{
+  overflow: visible;
+}
